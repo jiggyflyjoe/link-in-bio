@@ -26,4 +26,4 @@ So I wound up making this. While I created it with my sister in mind, it could b
 ## 🚀 Launch It!
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git```
+git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
