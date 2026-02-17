@@ -1,0 +1,50 @@
+body {
+    padding: 6%;
+}
+
+.row {
+    border: 1px solid hotpink;
+    border-radius: 15px 50px !important;
+    padding: 1%;
+    box-shadow: -10px 10px hotpink;
+}
+
+img {
+    border-radius: 15px 50px !important;
+}
+
+h2 {
+    font-size: 1rem !important;
+}
+
+.fa-brands {
+    font-size: 1.5rem;
+    color: hotpink;
+}
+
+.fa-brands:hover {
+    color: pink;
+    transition: color 1s ease;
+}
+
+.contact-button {
+    margin-top: 2%;
+    margin-bottom: -1%;
+}
+
+.contact {
+    background-color: hotpink !important;
+    color: white !important;
+    cursor: pointer;
+    padding: 6px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.contact:hover {
+    background-color: pink !important;
+}
+
+.socials {
+    float: right;
+}
